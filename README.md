@@ -11,13 +11,13 @@
 # My github stats
 
 <div align="center">
-<img style="max-width: 500px; width: 100%" src="https://streak-stats.demolab.com/?user=yusupovj&theme=transparent" />
+<img style="width: 400px" src="https://streak-stats.demolab.com/?user=yusupovj&theme=transparent" />
 </div>
 
 <div align="center">
-<img style="max-width: 500px; width: 100%" src="https://github-readme-stats.vercel.app/api?username=yusupovj&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=transparent" />
+<img style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=yusupovj&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=transparent" />
 </div>
 
 <div align="center">
-<img style="max-width: 500px; width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovj&locale=en&custom_title=Top%20Languages&theme=transparent" />
+<img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovj&locale=en&custom_title=Top%20Languages&theme=transparent" />
 </div>
