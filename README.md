@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=70&duration=3000&pause=200&color=A7A459&center=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi there!+I'm Jamshid.;Fullstack NodeJs React Developer+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=70&duration=3000&pause=1000&color=006AFF&center=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hi there!+I'm Jamshid.;Fullstack NodeJs React Developer+%E2%9C%A9" width="70%" />
 </p>
 
 <b>
