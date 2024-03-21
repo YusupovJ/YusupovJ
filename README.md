@@ -10,7 +10,7 @@
 
 # My github stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 3px">
+<div style="display: flex; gap: 3px">
 
 <div style="flex: 1 1 300px; display: flex; flex-direction: column; justify-content: space-between;">
 
