@@ -2,13 +2,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=70&duration=3000&pause=200&color=A7A459&center=true&multiline=true&repeat=false&random=false&width=1300&height=180&lines=Hi there!+I'm Jamshid.;Fullstack NodeJs React Developer+%E2%9C%A9" width="70%" />
 </p>
 
-✩ 𝐈 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐦𝐲 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐚𝐬 𝐚 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐡𝐞𝐧 𝐈 𝐬𝐚𝐰 𝐚 𝐯𝐢𝐝𝐞𝐨 𝐚𝐛𝐨𝐮𝐭 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐨𝐧 𝐘𝐨𝐮𝐓𝐮𝐛𝐞💻. 𝐀𝐧𝐝 𝐭𝐡𝐞𝐧 𝐈 𝐰𝐚𝐬 𝐜𝐚𝐫𝐫𝐢𝐞𝐝 𝐢𝐧𝐭𝐨 𝐭𝐡𝐢𝐬 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐮𝐧𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐝 𝐰𝐨𝐫𝐥𝐝🌎. 𝐀𝐟𝐭𝐞𝐫 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝, 𝐈 𝐝𝐞𝐜𝐢𝐝𝐞𝐝 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐁𝐚𝐜𝐤𝐞𝐧𝐝, 𝐭𝐨𝐨. 𝐍𝐨𝐰, 𝐈'𝐦 𝐡𝐚𝐩𝐩𝐲 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐝𝐞𝐯𝐞𝐥𝐨𝐩 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠😊 ✩
+<b>
+✩ I started my journey as a Frontend developer when I saw a video about programming on Youtube💻. And then I was carried into this interesting and unexplored world🌎. After Frontend, I decided to learn Backend, too. Now, I'm happy to help you develop something interesting😊 ✩
+</b>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-# My github stats
+<h1 align="center">Github Statistics 📊</h1>
 
 <div align="center">
 <img style="width: 400px" src="https://streak-stats.demolab.com/?user=yusupovj&theme=transparent" />
@@ -21,3 +23,101 @@
 <div align="center">
 <img style="width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovj&locale=en&custom_title=Top%20Languages&theme=transparent" />
 </div>
+
+<br><br>
+
+<h1 align="center">Certificates 📊</h1>
+
+<figure>
+
+<table>
+
+<tr>
+
+  <td>
+  <img src="assets/certificate_frontend.jpg"/>
+
+  <figcaption align="center">
+  <b>Frontend certificate</b>
+  </figcaption>
+
+  </figure>
+
+  </td>
+
+  <td>
+  <figure>
+  <img  src="assets/certificate_backend.jpg"/>
+
+  <figcaption align="center">
+  <b>Backend certificate</b>
+  </figcaption>
+
+  </figure>
+  </td>
+</tr>
+
+</table>
+
+<br><br>
+
+<h1 align="center">Technologies ⚙️</h1>
+
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px" alt="HTML" />
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px" alt="CSS"  />
+<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="50px" height="50px" alt="SASS" />
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50px" height="50px" alt="JavaScript" />
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50px" height="50px"  alt="TypeScript"/>
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50px" height="50px" alt="ReactJS" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" width="50px" height="50px" alt="Vite" />
+<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50px" height="50px" alt="React Redux" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" width="50px" height="50px" alt="Gulp"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50px" height="50px" alt="NextJs" />
+<img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" width="50px" height="50px" alt="ChakraUI" />
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50px" height="50px" alt="TailwindCSS" />
+<img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" width="50px" height="50px" alt="Antd" />
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50px" height="50px" alt="Figma" />
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50px" height="50px" alt="NPM" />
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50px" height="50px" alt="NodeJs" />
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50px" height="50px" alt="Express" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" width="50px" height="50px" alt="NestJs" />
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="50px" height="50px" alt="PostgreSQL" />
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50px" height="50px" alt="MySQL" />
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50px" height="50px" alt="MongoDB" />
+<img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="50px" height="50px" alt="WebSockets" />
+<img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50px" height="50px" alt="HTTP" />
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="50px" height="50px" alt="REST API" />
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" height="50px" alt="Git" />
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50px" height="50px" alt="GitHub" />
+<img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" width="50px" height="50px" alt="WebStorm" />
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px" height="50px" alt="VSCode" />
+<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" width="50px" height="50px" alt="Sublime text" />
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50px" height="50px" alt="Postman" />
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="50px" height="50px"  alt="Swagger"/>
+
+<br><br>
+
+<h1 align="center">Codewars Profile ⌨</h1>
+
+![Codewars](https://github.r2v.ch/codewars?user=Jamshudanamana&theme=transparent&top_languages=true)
+
+<b>
+If would like to <a href="https://www.codewars.com/users/Jamshudanamana" target="_blank">see more</a>, welcome!
+</b>
+
+<br><br>
+
+<h1 align="center">Contact Me 📞</h1>
+
+<a href="https://t.me/jamshudanamana" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+</a>
+<a href="https://www.instagram.com/jamshudanamana/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.linkedin.com/in/jamshid-yusupov/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40" height="40" alt="Instagram"/>
+</a>
+<a href="mailto:jamshudanamana@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40" alt="Instagram"/>
+</a>
