@@ -1,18 +1,17 @@
 <div align="center">
-  <h1>👋 Привет, я YusupovJ!</h1>
-  <p>Люблю кодить, исследовать новые технологии и превращать идеи в реальность.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=50&duration=3000&pause=1000&color=ffffff&center=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hi there!+I'm Jamshid.;Fullstack Developer+%E2%9C%A9" width="70%" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlrNzQ1dDJjZmE1aHNocWgyOHQ3Z2h6OTZjeGU0NWQ1ZHl3OTViMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="500" alt="Coding GIF"/>
 </div>
 
 ---
 
-### 🌟 Немного обо мне
+### 🌟 A Bit About Me
 
-Привет! Меня зовут [твое имя, если хочешь], и я разработчик, который обожает создавать крутые штуки. В свободное время я либо пишу код, либо решаю задачки на Codewars, либо ищу вдохновение в open-source. Моя цель — делать мир лучше через технологии!
+Hi! My name is Jamshid, and I’m a developer who loves creating cool stuff. In my free time, I’m either coding, solving problems on Codewars, or finding inspiration in open-source projects. My goal is to make the world a better place through technology!
 
 ---
 
-### 🛠 Мой стек технологий
+### 🛠 My Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,postgresql,prisma,git" />
@@ -20,7 +19,7 @@
 
 ---
 
-### ⚡ Кодинг-статистика
+### ⚡ Coding Stats
 
 #### GitHub Stats
 
@@ -43,15 +42,15 @@
 
 ---
 
-### 🎉 Прикольные штуки
+### 🎉 Fun Stuff
 
-- 🐍 Мой код однажды ожил и попросил кофе.
-- ✨ Люблю анимации? Вот тебе змейка:  
+- 🐍 My code once came to life and asked for coffee.
+- ✨ Love animations? Here’s a snake for you:  
   <img src="./assets/github-snake.svg" alt="Snake Game"/>
 
 ---
 
-### 🌐 Избранные репозитории
+### 🌐 Featured Repositories
 
 <div align="center">
   <a href="https://github.com/MinecraftRTX4090/chat-craft">
@@ -64,7 +63,7 @@
 
 ---
 
-### 📬 Связаться со мной
+### 📬 Contact Me
 
 <div align="center">
   <a href="mailto:jamshudanama@example.com">
@@ -81,5 +80,5 @@
 ---
 
 <div align="center">
-  <p>Спасибо, что заглянул! Давай кодить вместе? 🚀</p>
+  <p>Thanks for stopping by! Want to code together? 🚀</p>
 </div>
