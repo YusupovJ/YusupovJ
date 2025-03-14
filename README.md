@@ -15,7 +15,7 @@
 ### 🛠 Мой стек технологий
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,postgresql,websocket,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,postgresql,prisma,git" />
 </div>
 
 ---
@@ -24,10 +24,10 @@
 
 #### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusupovJ&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusupovJ&theme=radical" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusupovJ&show_icons=true&theme=tokyonight&hide_border=true" height="140">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusupovJ&theme=tokyonight" height="140" />
+</p>
 
 #### Codewars
 
@@ -56,9 +56,6 @@
 <div align="center">
   <a href="https://github.com/MinecraftRTX4090/chat-craft">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinecraftRTX4090&repo=chat-craft&theme=radical" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/YusupovJ/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YusupovJ&repo=portfolio&theme=radical" alt="Repo 2"/>
   </a>
   <a href="https://github.com/YusupovJ/insta-tube">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusupovj&repo=insta-tube&theme=radical" alt="Repo 3"/>
