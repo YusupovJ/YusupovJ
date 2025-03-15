@@ -54,10 +54,10 @@ Hi! My name is Jamshid, and I’m a developer who loves creating cool stuff. In 
 
 <div align="center">
   <a href="https://github.com/MinecraftRTX4090/chat-craft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinecraftRTX4090&repo=chat-craft&theme=radical" alt="Repo 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinecraftRTX4090&repo=chat-craft&theme=tokyonight" alt="Repo 1"/>
   </a>
   <a href="https://github.com/YusupovJ/insta-tube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusupovj&repo=insta-tube&theme=radical" alt="Repo 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusupovj&repo=insta-tube&theme=tokyonight" alt="Repo 3"/>
   </a>
 </div>
 
