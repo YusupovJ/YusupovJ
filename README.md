@@ -72,7 +72,7 @@ Hi! My name is Jamshid, and I’m a developer who loves creating cool stuff. In 
   <a href="https://t.me/jamshudanama">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/jamshudanama/">
+  <a href="https://www.instagram.com/jamshudanamana?igsh=Z2Z3MGl6eHE2b250">
     <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=E1306C" alt="Instagram"/>
   </a>
 </div>
