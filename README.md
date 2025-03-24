@@ -66,7 +66,7 @@ Hi! My name is Jamshid, and I’m a developer who loves creating cool stuff. In 
 ### 📬 Contact Me
 
 <div align="center">
-  <a href="mailto:jamshudanama@example.com">
+  <a href="mailto:jamshudanama@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/jamshudanama">
